@@ -1,3 +1,6 @@
 Historia
 
 Esta es una prueba para empezar a trabajar con git.
+
+estos son cambios realizados al archivo
+
