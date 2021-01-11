@@ -2,5 +2,7 @@ Historia
 
 Esta es una prueba para empezar a trabajar con git.
 
-estos son cambios realizados al archivo
+estos son cambios realizados al trabajo al momento de la edicion
+
+este archivo se sigue probando para conocer bien el funcionamiento de git.
 
